@@ -5,8 +5,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Tech Plateform and Languages:
 
 - JavaScript
-- Node Js
-- React Js 
+- React Js
+- HTML
 - Tailwind CSS
 
 
