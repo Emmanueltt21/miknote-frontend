@@ -48,9 +48,10 @@ const Contact = () => {
         </div>
       </div> 
 
+      <img src={cube} alt="cube" className='w-full h-72 mt-20 absolute top-[3550px] hidden xl:block'/>
+
     </section>
     
-    <img src={cube} alt="cube" className='w-full h-72 absolute top-[3550px] hidden xl:block'/>
    </>
   )
 }

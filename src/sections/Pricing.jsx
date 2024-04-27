@@ -45,14 +45,7 @@ const Pricing = () => {
           </div>
       </div>
 
-      <div className='w-full flex justify-around items-center flex-wrap gap-10 mt-20'>
-           {pricing.map((price) => (
-            <div className='w-96' key={price.plan}>
-              <PriceGrid {...price} />
-               </div>
-        
-           ))}
-      </div>
+ 
     </section>
   )
 }

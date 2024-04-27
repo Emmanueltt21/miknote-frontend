@@ -3,7 +3,7 @@ import heroImg from '../assets/images/heroimg.png';
 
 const Hero = () => {
   return (
-    <section className='flex flex-col lg:flex-row justify-between items-center gap-4 w-full bg-slate-100 h-auto lg:h-screen'>
+    <section id='home' className='flex flex-col lg:flex-row justify-between items-center gap-4 w-full bg-slate-100 h-auto lg:h-screen'>
 
       <div className='flex justify-center items-start flex-col gap-8 lg:w1/2 px-10 py-10 lg:px-20 lg:py-20'>
 

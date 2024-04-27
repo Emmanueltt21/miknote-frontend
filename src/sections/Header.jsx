@@ -23,7 +23,7 @@ const Header = () => {
     <h1 className='text-green-600 text-3xl font-bold'> MIKENOTES</h1>
     <div className='hidden lg:flex justify-end items-center gap-2'>
       <ul className='flex justify-center items-center gap-3'>
-        <li> <a className='text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-green-600 hover:text-white active:text-white' href="/"> Home</a></li>
+        <li> <a className='text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-green-600 hover:text-white active:text-white' href="#home"> Home</a></li>
 
         <li> <a className='text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-green-600 hover:text-white active:text-white' href="#services"> Services</a></li>
 
