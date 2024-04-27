@@ -4,9 +4,14 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Tech Plateform and Languages:
 
+- JavaScript
 - Node Js
 - React Js 
 - Tailwind CSS
+
+
+Deployed Version: https://miknotes.netlify.app
+
 
 Currently, two official plugins are available:
 
